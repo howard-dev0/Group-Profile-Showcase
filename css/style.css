@@ -357,7 +357,7 @@ header nav a{
     letter-spacing: 3px;
     background-color: transparent;
     padding: 10px;
-    /* opacity: 0; */
+    opacity: 0;
     transition: opacity 0.5s;
 }
 .carousel.showDetail #back{
