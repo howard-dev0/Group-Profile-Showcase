@@ -52,7 +52,7 @@ header nav a{
 /* carousel */
 .carousel{
     position: relative;
-    height: 800px;
+    height: 990px;
     overflow: hidden;
     margin-top: -50px;
 }
@@ -102,12 +102,12 @@ header nav a{
     transition: opacity 0.5s;
 }
 .carousel .list .item .introduce .title{
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: 500;
     line-height: 1em;
 }
 .carousel .list .item .introduce .student_name{
-    font-size: 4em;
+    font-size: 3em;
     font-weight: 500;
 }
 .carousel .list .item .introduce .des{
@@ -300,7 +300,7 @@ header nav a{
     font-weight: 500;
 }
 .carousel.carousel.showDetail .list .item:nth-child(2) .contact_student button:nth-child(2){
-    background-color: #693EFF;
+    background-color: #0006ba;
     color: #eee;
 }
 .carousel.showDetail .list .item:nth-child(2) .detail  .title,
@@ -401,7 +401,7 @@ header nav a{
 @media screen and (max-width: 767px){
     /* mobile */
     .carousel{
-        height: 600px;
+        height: 800px;
     }
     .carousel .list .item{
         width: 100%;
